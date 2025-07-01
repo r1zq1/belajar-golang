@@ -1,0 +1,15 @@
+mode: set
+github.com/r1zq1/belajar-golang/pkg/unittesting/rekening.go:12.35,13.15 1 1
+github.com/r1zq1/belajar-golang/pkg/unittesting/rekening.go:13.15,15.3 1 1
+github.com/r1zq1/belajar-golang/pkg/unittesting/rekening.go:16.2,16.18 1 1
+github.com/r1zq1/belajar-golang/pkg/unittesting/rekening.go:16.18,18.3 1 1
+github.com/r1zq1/belajar-golang/pkg/unittesting/rekening.go:19.2,19.16 1 1
+github.com/r1zq1/belajar-golang/pkg/unittesting/rekening.go:22.69,23.33 1 1
+github.com/r1zq1/belajar-golang/pkg/unittesting/rekening.go:23.33,25.3 1 0
+github.com/r1zq1/belajar-golang/pkg/unittesting/rekening.go:26.2,26.17 1 1
+github.com/r1zq1/belajar-golang/pkg/unittesting/rekening.go:26.17,28.3 1 0
+github.com/r1zq1/belajar-golang/pkg/unittesting/rekening.go:29.2,29.22 1 1
+github.com/r1zq1/belajar-golang/pkg/unittesting/rekening.go:29.22,31.3 1 0
+github.com/r1zq1/belajar-golang/pkg/unittesting/rekening.go:32.2,34.12 3 1
+github.com/r1zq1/belajar-golang/pkg/unittesting/rekening.go:37.33,39.2 1 0
+github.com/r1zq1/belajar-golang/pkg/unittesting/rekening.go:41.36,43.2 1 0
