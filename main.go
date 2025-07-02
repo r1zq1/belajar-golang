@@ -9,7 +9,7 @@ import (
 	"github.com/r1zq1/belajar-golang/pkg/structs"
 )
 
-func main() {
+func main1() {
 	fmt.Println(greetings.GreetingText1)
 	fmt.Println(greetings.GreetingText2)
 	fmt.Println(greetings.GreetingText3)

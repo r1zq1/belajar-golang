@@ -2,6 +2,21 @@ package structs
 
 import "fmt"
 
+type Cabang struct {
+	Kode        string
+	Nama        string
+	Alamat      string
+	AnakCabang  []*Cabang
+	IndukCabang *Cabang
+}
+
+type Transaksi struct {
+	ID       string
+	Nominal  float64
+	Type     string
+	Reversal *Transaksi
+}
+
 type Address struct {
 	Street string
 	City   string
